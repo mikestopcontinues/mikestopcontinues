@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [SiteArcade](https://www.sitearcade.com).
-- 🌱 I’m currently learning how to run an awesome business. (See above.)
-- 👯 I’m looking to collaborate on any of [these](https://github.com/sitearcade).
+- 🌱 In my spare time, I'm playing with Rust, SolidJS, Remix, and Cloudflare.
 - ⚡ Fun fact: _society_ is a finite game, whereas _culture_ is an [infinite game](https://amzn.to/3410r46).
 
 <!--
