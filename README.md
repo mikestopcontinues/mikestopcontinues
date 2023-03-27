@@ -8,4 +8,4 @@ I also offer services as a fractional CTO. I love working with startups on a wid
 
 Reach out to discuss my fractional CTO services or chat about recent developments in software, technology, and entrepreneurship.
 
-([Twitter](https://twitter.com/stopcontinues)) [LinkedIn](https://www.linkedin.com/in/mikestopcontinues/)
+[Twitter](https://twitter.com/stopcontinues) ⬩ [LinkedIn](https://www.linkedin.com/in/mikestopcontinues/)
