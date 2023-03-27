@@ -6,4 +6,4 @@ I'm currently building [BrowserCat](https://www.browsercat.com), a service provi
 
 I also offer services as a fractional CTO. I love working with startups on a wide range of problems, including leveling up junior dev teams, developing stable and expandable software systems, driving user research and product roadmaps, as well as managing projects and timelines. I aim for excellence, efficiency, and long-term sustainability.
 
-Reach out to learn more about BrowserCat, discuss my fractional CTO services ([LinkedIn](https://www.linkedin.com/in/mikestopcontinues/)),or chat about recent developments in software, technology, and entrepreneurship ([Twitter](https://twitter.com/stopcontinues) ).
+Reach out to learn more about BrowserCat, discuss my fractional CTO services ([LinkedIn](https://www.linkedin.com/in/mikestopcontinues/)), or chat about recent developments in software, technology, and entrepreneurship ([Twitter](https://twitter.com/stopcontinues)).
